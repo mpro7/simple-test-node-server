@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mpro7/simple-test-node-server/issues"
   },
-  "homepage": "https://github.com/mpro7/simple-test-node-server#readme"
+  "homepage": "https://github.com/mpro7/simple-test-node-server#readme",
+  "dependencies": {
+    "formidable": "^1.2.1"
+  }
 }
